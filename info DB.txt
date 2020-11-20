@@ -1,0 +1,10 @@
+postgreSQL
+
+crear:
+primero 
+  usuario:
+  	nombre: sic_tarea
+  	password: sic_tarea
+
+luego:
+  base de datos: sic_tarea
